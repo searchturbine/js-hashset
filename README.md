@@ -46,7 +46,7 @@ Installing PHPWee should only take a minute. Here are you 3 choices:
 
 
 ```js
-&lt;script src='js-hashset/hashset.min.js>&lt;/script>
+<script src='js-hashset/hashset.min.js></script>
 ```
 
 
